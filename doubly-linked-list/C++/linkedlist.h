@@ -2,7 +2,10 @@
  * @file linkedlist.h
  * 
  *  Doubly linked list implementation
- *  methods: print, reverse print, pop, remove last, push, add to end
+ *  methods:
+      displays: print, reverse print
+      adding: add to front, add to rear
+      removal: remove head, remove tail, remove first occurence, remove last occurence
  * 
  */
 
