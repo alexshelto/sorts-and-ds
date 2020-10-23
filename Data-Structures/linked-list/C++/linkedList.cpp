@@ -1,10 +1,10 @@
 /**
- * @file linkedList.cpp
+ * @file linkedList.h
  * @author Alex Shelton
  * @date 2020-10-15
  */
 
-#include <iostream>
+// #include <iostream>
 
 //Implementation of Node class
 class Node {
