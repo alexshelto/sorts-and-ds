@@ -22,7 +22,8 @@ cmake_install.cmake
 install_manifest.txt
 
 # Language --------------------------------------------------------------------
-
+*.vscode
+/vscode
 ### C++ ###
 # Compiled Object files
 *.slo
