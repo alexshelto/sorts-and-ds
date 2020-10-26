@@ -12,7 +12,6 @@ function setup(){
     states[i] = -1;
   }
   quickSort(values, 0, values.length - 1);
-  // frameRate(5);
 }
 
 function sleep(ms) {
