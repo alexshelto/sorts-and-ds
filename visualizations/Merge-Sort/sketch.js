@@ -1,14 +1,14 @@
 
 
 let i = 0;
-let w = 10;
+let w = 6;
 let states = []
 
 
 
 
 function setup() {
-  createCanvas(800,800);
+  createCanvas(600,600);
   values = new Array(floor(width / w));
   for(let i = 0; i < values.length; i++) { 
     values[i] = random(height);
